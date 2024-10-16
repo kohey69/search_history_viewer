@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Search History Viewer",
+  "version": "1.0",
+  "permissions": ["history"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "View Search History"
+  }
+}
